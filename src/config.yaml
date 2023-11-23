@@ -1,0 +1,6 @@
+path: "dataset",
+train: "dataset/train/images",
+val: "dataset/val/images",
+predict: "test/train/images",
+nc: 1,
+names: ["human"]
